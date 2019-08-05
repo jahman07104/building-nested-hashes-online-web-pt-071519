@@ -24,24 +24,6 @@ def fourth_challenge
 }
 
   #
-
+binding.p
 end
 
-def discount(coupon)
-  binding.pry
-  if coupon == coupon.integer
-  
-end
-
-
-class Dog
-  def bark
-    puts "Woof!Woof!"
-  end
-  binding.pry
-end
-
-fido = Dog.new
-fido.bark
-snoopy = Dog.new
-snoopy.bark
