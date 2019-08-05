@@ -32,3 +32,16 @@ def discount(coupon)
   if coupon == coupon.integer
   
 end
+
+
+class Dog
+  def bark
+    puts "Woof!Woof!"
+  end
+  binding.pry
+end
+
+fido = Dog.new
+fido.bark
+snoopy = Dog.new
+snoopy.bark
