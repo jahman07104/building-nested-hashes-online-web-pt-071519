@@ -24,5 +24,10 @@ def fourth_challenge
 }
 
   #
-binding.pry
+
+end
+
+def discount(coupon)
+  if coupon == coupon.integer
+  binding.pry
 end
