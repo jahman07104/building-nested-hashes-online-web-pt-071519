@@ -24,6 +24,6 @@ def fourth_challenge
 }
 
   #
-binding.p
+
 end
 
